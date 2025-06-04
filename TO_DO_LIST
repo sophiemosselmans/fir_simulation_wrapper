@@ -1,2 +1,10 @@
 1) Update README for LBLDIS applications
+2) Add PREFIRE DONE
 3) Tidy up commenting of code
+4) rename lbldis_testing once finished testing
+
+Extra todos from meeting 
+- Make .sav ILS lines shapes have more obvious names
+- aux file description
+- docs: upload thesis and lblrtm instructions
+- add other kind of OD files to git ignore 
